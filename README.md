@@ -18,7 +18,7 @@ Full-stack inventory management system built with Python and JavaScript.
 
 ## Installation
 1. Clone the repo
-2. `python inventario.py`
+2. `inventory-system.py`
 3. Login: admin / 123
 
 ## Usage
